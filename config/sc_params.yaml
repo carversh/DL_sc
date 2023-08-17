@@ -1,0 +1,24 @@
+default: &DEFAULT
+  #General
+  data_filepath: 6
+  seed: 2023
+
+  # # Dataset related
+  # data:
+  #  batch_size: 128
+
+  # #Construct Network
+  # network:
+  #   num_modules: 10
+  #   alpha: 0.5 # step size in forward mode, should be 1/L, greater than largest singular value of the dictionary
+  #   enc_layers: 100
+  #   normalize: 1
+
+  # # Optimizer
+  # opt:
+  #   n_epochs: 300
+  #   learning_rate: 5e-3
+
+  # # Regularization
+  # reg:
+  #   l1_reg_code: 0.1    
