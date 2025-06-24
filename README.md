@@ -1,5 +1,3 @@
-# README
-
 ## Background
 
 Perturb-seq is a high-throughput screening technique used to investigate the effect of gene perturbations on transcriptomic readouts, specifically using single-cell RNA sequencing (scRNA-seq). In traditional setups:
